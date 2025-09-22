@@ -392,3 +392,10 @@
   392  git commit -m "ADD: Añadiendo script"
   393  git push
   394  history > historial_comandos_Garay.txt
+  395  git add .
+  396  git commit -m "ADD: Historial de comandos Apellido"
+  397  git push
+  398  ls -l
+  399  chmod 777 script_dir.sh 
+  400  ls -l
+  401  history > historial_comandos_Garay.txt
