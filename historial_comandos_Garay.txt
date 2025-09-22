@@ -399,3 +399,13 @@
   399  chmod 777 script_dir.sh 
   400  ls -l
   401  history > historial_comandos_Garay.txt
+  402  git commit -m "ADD: Añadiendo script"
+  403  git add .
+  404  git push
+  405  ls -l
+  406  chmod 777 script_dir.sh 
+  407  ls -l
+  408  git add .
+  409  git commit -m "ADD: Añadiendo script"
+  410  git push
+  411  history > historial_comandos_Garay.txt
