@@ -1,8 +1,1 @@
-/proc/cpuinfo-4-model		: 60
-/proc/cpuinfo:5:model name	: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
-/proc/cpuinfo-6-stepping	: 3
---
-/proc/cpuinfo-31-model		: 60
-/proc/cpuinfo:32:model name	: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
-/proc/cpuinfo-33-stepping	: 3
 model name	: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
